@@ -37,4 +37,5 @@ function mergeSort(array){
     return merge(left,right);
 }
 
+
 console.log(mergeSort([9,4,5,6,7]))
